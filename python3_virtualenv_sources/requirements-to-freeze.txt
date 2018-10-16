@@ -1,0 +1,4 @@
+
+# python3 requirements.txt file
+# see https://pip.readthedocs.io/en/1.1/requirements.html
+-e git+https://github.com/metwork-framework/aiohttp_github_helpers.git#egg=aiohttp_github_helpers
